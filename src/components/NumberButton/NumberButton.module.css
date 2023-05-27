@@ -1,0 +1,10 @@
+.numberButtonContainer{
+    width: 100px;
+    height: 100px;
+    background-color: #494949;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}

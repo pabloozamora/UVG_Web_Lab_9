@@ -1,0 +1,23 @@
+.CButtonContainer{
+    grid-column: 1 / 3;
+    grid-row: 1;
+    width: 205px;
+    height: 100px;
+    background-color: #323238;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.operationButtonContainer{
+    width: 100px;
+    height: 100px;
+    background-color: #323238;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
